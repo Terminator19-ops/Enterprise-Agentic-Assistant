@@ -220,3 +220,4 @@ __marimo__/
 
 # Python virtual environment
 myenv/
+processed_data/
